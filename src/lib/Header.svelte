@@ -1,5 +1,5 @@
 <header class="hero is-link">
-  <div class="hero-body">
+  <div class="ihero-body">
     <h1 class="title">Welcome</h1>
     <h2 class="subtitle">Andra is great</h2>
   </div>
