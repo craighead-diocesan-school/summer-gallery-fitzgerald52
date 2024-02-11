@@ -6,7 +6,7 @@
 
 <Header />
 <Nav />
-<main>
+<main class="content section">
   <p>i like blueberries i am loosing the plot my name is emma</p>
 </main>
 <Footer />

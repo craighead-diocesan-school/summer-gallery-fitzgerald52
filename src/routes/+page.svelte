@@ -8,7 +8,7 @@
 
 <Nav />
 
-<main>
+<main class="content section">
   <h2>SvelteKit</h2>
 
   <p>Welcome to coding with SvelteKit, a modern JavaScript framework that makes it easy to code great apps.</p>
