@@ -2,6 +2,7 @@
   import Header from '$lib/Header.svelte'
   import Footer from '$lib/Footer.svelte'
   import Nav from '$lib/Nav.svelte'
+  import Card from '$lib/Card.svelte'
 </script>
 
 <Header />
@@ -15,6 +16,8 @@
 
   <img src="/blueberry.webp" alt="blueberry" />
 </main>
+
+<Card />
 
 <Footer />
 
