@@ -4,7 +4,7 @@
   import Nav from '$lib/Nav.svelte'
 </script>
 
-<Header />
+<Header title="About me " subtitle="I am cool" />
 <Nav />
 <main class="content section">
   <h2 class="title">My summer activities</h2>

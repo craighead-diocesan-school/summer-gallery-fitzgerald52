@@ -5,7 +5,7 @@
   import Card from '$lib/Card.svelte'
 </script>
 
-<Header />
+<Header title="Summer Gallery" subtitle="Images from summer" />
 
 <Nav />
 
